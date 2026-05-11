@@ -11,7 +11,7 @@ public class Customer {
         setEmail(email);
     }
 
-    // Encapsulated getters/setters with validation
+
 
     public String getFirstName() {
         return firstName;
@@ -46,7 +46,7 @@ public class Customer {
         this.email = email;
     }
 
-    // ✅ BEHAVIOR MOVED INSIDE CLASS (important part)
+
 
     public String getFullName() {
         return firstName + " " + lastName;

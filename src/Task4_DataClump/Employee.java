@@ -23,7 +23,7 @@ public class Employee {
         this.salary = salary;
     }
 
-    // Getters (optional but good for demo)
+
 
     public String getName() {
         return name;
