@@ -12,7 +12,6 @@ public class Order {
         return customer;
     }
 
-    // ✅ hide delegate
     public String getCustomerZipCode() {
         return customer.getZipCode();
     }

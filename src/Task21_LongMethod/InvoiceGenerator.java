@@ -14,9 +14,6 @@ public class InvoiceGenerator {
 
         printInvoice(order, total, discount, tax, finalAmount);
     }
-
-
-
     private double calculateTotal(Order order) {
 
         double total = 0;

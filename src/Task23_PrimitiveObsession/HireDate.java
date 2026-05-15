@@ -8,9 +8,7 @@ public class HireDate {
 
     private int day;
 
-    public HireDate(int year,
-                    int month,
-                    int day) {
+    public HireDate(int year, int month, int day) {
 
         this.year = year;
         this.month = month;

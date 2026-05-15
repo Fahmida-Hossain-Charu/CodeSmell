@@ -10,7 +10,6 @@ public abstract class Worker {
         this.name = name;
     }
 
-    // common behavior
     public void assignBonus(int bonusAmount) {
         this.bonus = bonusAmount;
     }

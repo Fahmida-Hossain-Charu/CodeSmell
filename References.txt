@@ -1,0 +1,190 @@
+Code Smells and Refactoring Lab - Learning Resources
+
+Date: May 11, 2026
+
+
+        DUPLICATE CODE
+1. Class lecture on Code Smells and Refactoring
+2. Refactoring Guru - Duplicate Code
+   Link: https://refactoring.guru/smells/duplicate-code
+3. Refactoring Guru - Extract Method
+   Link: https://refactoring.guru/extract-method
+
+
+        LONG METHOD
+1. Class lecture on Long Method smell
+2. Refactoring Guru - Long Method
+   Link: https://refactoring.guru/smells/long-method
+3. Refactoring Guru - Extract Method
+   Link: https://refactoring.guru/extract-method
+
+
+        LARGE CLASS / GOD CLASS
+1. Class lecture on God Class smell
+2. Refactoring Guru - Large Class
+   Link: https://refactoring.guru/smells/large-class
+3. Refactoring Guru - Extract Class
+   Link: https://refactoring.guru/extract-class
+
+
+        LONG PARAMETER LIST
+1. Class lecture on Long Parameter List
+2. Refactoring Guru - Long Parameter List
+   Link: https://refactoring.guru/smells/long-parameter-list
+3. Refactoring Guru - Introduce Parameter Object
+   Link: https://refactoring.guru/introduce-parameter-object
+
+
+        DATA CLUMPS
+1. Class lecture on Data Clumps
+2. Refactoring Guru - Data Clumps
+   Link: https://refactoring.guru/smells/data-clumps
+3. Refactoring Guru - Extract Class
+   Link: https://refactoring.guru/extract-class
+
+
+        PRIMITIVE OBSESSION
+1. Class lecture on Primitive Obsession
+2. Refactoring Guru - Primitive Obsession
+   Link: https://refactoring.guru/smells/primitive-obsession
+3. Refactoring Guru - Replace Primitive with Object
+   Link: https://refactoring.guru/replace-data-value-with-object
+
+
+        SWITCH STATEMENTS
+1. Class lecture on Switch Statements smell
+2. Refactoring Guru - Switch Statements
+   Link: https://refactoring.guru/smells/switch-statements
+3. Refactoring Guru - Replace Conditional with Polymorphism
+   Link: https://refactoring.guru/replace-conditional-with-polymorphism
+
+
+        LAZY CLASS
+1. Class lecture on Lazy Class smell
+2. Refactoring Guru - Lazy Class
+   Link: https://refactoring.guru/smells/lazy-class
+3. Refactoring Guru - Inline Class
+   Link: https://refactoring.guru/inline-class
+
+
+        SPECULATIVE GENERALITY
+1. Class lecture on Speculative Generality
+2. Refactoring Guru - Speculative Generality
+   Link: https://refactoring.guru/smells/speculative-generality
+3. Refactoring Guru - Collapse Hierarchy
+   Link: https://refactoring.guru/collapse-hierarchy
+
+
+        TEMPORARY FIELD
+1. Class lecture on Temporary Field smell
+2. Refactoring Guru - Temporary Field
+   Link: https://refactoring.guru/smells/temporary-field
+3. Refactoring Guru - Remove Temporary Field
+   Link: https://refactoring.guru/remove-setting-method
+
+
+        MESSAGE CHAINS
+1. Class lecture on Message Chains
+2. Refactoring Guru - Message Chains
+   Link: https://refactoring.guru/smells/message-chains
+3. Refactoring Guru - Hide Delegate
+   Link: https://refactoring.guru/hide-delegate
+
+
+        MIDDLE MAN
+1. Class lecture on Middle Man smell
+2. Refactoring Guru - Middle Man
+   Link: https://refactoring.guru/smells/middle-man
+3. Refactoring Guru - Remove Middle Man
+   Link: https://refactoring.guru/remove-middle-man
+
+
+        INAPPROPRIATE INTIMACY
+1. Class lecture on Inappropriate Intimacy
+2. Refactoring Guru - Inappropriate Intimacy
+   Link: https://refactoring.guru/smells/inappropriate-intimacy
+3. Refactoring Guru - Move Method
+   Link: https://refactoring.guru/move-method
+
+
+        REFUSED BEQUEST
+1. Class lecture on Refused Bequest
+2. Refactoring Guru - Refused Bequest
+   Link: https://refactoring.guru/smells/refused-bequest
+3. Refactoring Guru - Replace Inheritance with Delegation
+   Link: https://refactoring.guru/replace-inheritance-with-delegation
+
+
+        PARALLEL INHERITANCE HIERARCHIES
+1. Class lecture on Parallel Inheritance Hierarchies
+2. Refactoring Guru - Parallel Inheritance Hierarchies
+   Link: https://refactoring.guru/smells/parallel-inheritance-hierarchies
+3. Refactoring Guru - Extract Superclass
+   Link: https://refactoring.guru/extract-superclass
+
+
+        SHOTGUN SURGERY
+1. Class lecture on Shotgun Surgery
+2. Refactoring Guru - Shotgun Surgery
+   Link: https://refactoring.guru/smells/shotgun-surgery
+3. Refactoring Guru - Move Method
+   Link: https://refactoring.guru/move-method
+
+
+        COMMENTS
+1. Class lecture on Comments smell
+2. Refactoring Guru - Comments
+   Link: https://refactoring.guru/smells/comments
+3. Refactoring Guru - Extract Method
+   Link: https://refactoring.guru/extract-method
+
+
+        DATA CLASS
+1. Class lecture on Data Class smell
+2. Refactoring Guru - Data Class
+   Link: https://refactoring.guru/smells/data-class
+3. Refactoring Guru - Encapsulate Field
+   Link: https://refactoring.guru/encapsulate-field
+
+
+        DEAD CODE
+1. Class lecture on Dead Code
+2. Refactoring Guru - Dead Code
+   Link: https://refactoring.guru/smells/dead-code
+
+
+        FEATURE ENVY
+1. Class lecture on Feature Envy
+2. Refactoring Guru - Feature Envy
+   Link: https://refactoring.guru/smells/feature-envy
+3. Refactoring Guru - Move Method
+   Link: https://refactoring.guru/move-method
+
+
+        INTRODUCE FOREIGN METHOD
+1. Class lecture on Introduce Foreign Method
+2. Refactoring Guru - Introduce Foreign Method
+   Link: https://refactoring.guru/introduce-foreign-method
+
+
+             DIVERGENT CHANGE
+      1. Class lecture on Divergent Change
+      2. Refactoring Guru - Divergent Change
+         Link: https://refactoring.guru/smells/divergent-change
+      3. Refactoring Guru - Extract Class
+         Link: https://refactoring.guru/extract-class
+      4. Refactoring Guru - Move Method
+         Link: https://refactoring.guru/move-method
+
+
+              INCOMPLETE LIBRARY CLASS
+      1. Class lecture on Incomplete Library Class
+      2. Refactoring Guru - Incomplete Library Class
+         Link: https://refactoring.guru/smells/incomplete-library-class
+      3. Refactoring Guru - Introduce Foreign Method
+         Link: https://refactoring.guru/introduce-foreign-method
+
+
+                Name: Fahmida Hossain
+                Roll: BSSE1603
+                Course Taken by Nafis Fuad Sir

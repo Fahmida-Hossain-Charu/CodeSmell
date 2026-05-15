@@ -5,9 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         Employee employee =
-                new Employee(
-                        "Suga",
-                        new Money(50000),
+                new Employee("Suga", new Money(50000),
                         new HireDate(2022, 5, 10)
                 );
 
@@ -24,8 +22,7 @@ public class Main {
         );
 
         System.out.println(
-                "Hire Year: "
-                        + employee.getHireDate().getYear()
+                "Hire Year: " + employee.getHireDate().getYear()
         );
     }
 }

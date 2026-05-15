@@ -14,7 +14,6 @@ public class Employee {
 
     public int getAge() {
 
-        // uses utility/helper method
         return DateUtils.calculateAge(birthDate);
     }
 }
