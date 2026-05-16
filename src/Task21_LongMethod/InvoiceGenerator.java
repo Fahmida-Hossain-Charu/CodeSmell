@@ -1,3 +1,12 @@
+// Scenario:
+// Imagine you need to add a new feature that applies different tax rates based on the region.
+// However, since the `generateInvoice()` method is already long and complex, adding this
+// new tax logic would require modifying this massive block of code. This makes it error-prone,
+// difficult to test, and hard to maintain in the long term.
+//
+// Task for Students:
+// Refactor the `generateInvoice()` method by breaking it into smaller, more manageable methods.
+// Apply the Extract Method refactoring technique.
 package Task21_LongMethod;
 
 public class InvoiceGenerator {

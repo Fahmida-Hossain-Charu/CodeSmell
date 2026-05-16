@@ -1,3 +1,11 @@
+// Scenario:
+// The `OrderHelper` class accesses and modifies internal fields of the `Order` class directly.
+// This makes `OrderHelper` too familiar with the internals of `Order`, violating encapsulation.
+//
+// Task for Students:
+// Refactor the code to reduce coupling by using public methods in `Order` instead of accessing fields directly.
+// Apply **Encapsulate Field**, **Move Method**, or **Hide Delegate** as needed.
+
 package Task09_InappropriateIntimacy;
 import java.util.ArrayList;
 import java.util.List;

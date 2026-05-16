@@ -1,6 +1,4 @@
 package Task10_IncompleteLibraryClass;
-
-
 import java.time.LocalDate;
 
 public class Main {

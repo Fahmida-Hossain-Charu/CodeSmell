@@ -1,3 +1,12 @@
+// Scenario:
+// This `Customer` class only contains fields and getters/setters, but no behavior. It's just a passive data holder,
+// making it vulnerable to misuse. Business logic related to the customer ends up scattered elsewhere,
+// violating encapsulation.
+//
+// Task for Students:
+// Refactor the class by moving related logic (e.g., full name formatting, validation) into the `Customer` class
+// so that it encapsulates its behavior.
+// Apply the **Encapsulate Field** and **Move Method** refactoring techniques
 package Task03_DataClass;
 
 public class Customer {

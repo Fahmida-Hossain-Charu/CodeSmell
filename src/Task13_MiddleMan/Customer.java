@@ -1,3 +1,11 @@
+// Scenario:
+// The `CustomerManager` class just delegates every method to the `Customer` object without adding logic.
+// This is unnecessary indirection and makes the design more complex.
+//
+// Task for Students:
+// Refactor the code to remove the middle man. Use the `Customer` object directly where needed.
+// Apply **Remove Middle Man** refactoring.
+
 package Task13_MiddleMan;
 
 public class Customer {
